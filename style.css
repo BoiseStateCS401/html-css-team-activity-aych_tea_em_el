@@ -1,0 +1,166 @@
+nav {
+    background-color:#eaeaea;
+    display:block;
+    margin:0;
+    padding:0.25em;
+}
+
+ol, ul, li{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+#nl{
+    list-style: normal;
+    display: block;
+}
+
+li{display:inline;}
+
+#nav ul li {
+    position: relative;
+    padding: 1.0em;
+    float: left;
+}
+#nav ul {
+    width: 100%;
+    max-width: 75em;
+    margin: 0 auto;
+}
+
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+ul#horizontal-list li {
+		display: inline;
+}
+
+hr{
+    margin:0;
+    padding:0;
+    color:  #eaeaea;
+}
+
+body{
+    background-color: #eeeeee;
+    margin:0;
+    font-family: "Lato", "Helvetica", Helvetica, sans-serif;
+}
+h1, h2, h3, h4{
+    color:  #3f3844;
+    display: inline;
+    font-family: SansForgetica;
+    padding:10px,30px;
+}
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+#body p {
+    font-family: sans-serif;
+    background-color: #eaeaea;
+    color: black;
+}
+#body div{
+    padding:10px;
+}
+
+pre{
+    font-family: monospace;
+    background-color: #eeeeee;
+    padding:1em;
+    margin:0;
+}
+
+@font-face {
+    font-family: SansForgetica;
+    src: url("../html-css-team-activity-aych_tea_em_el/SansForgetica-Regular.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+ .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #900C3F;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #900C3F;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  } 
+
+#main{
+padding: 2em;
+background-color: #f7f7f7;
+}
+
+#footer {
+    background-color:#eeeeee;
+    overflow-x:hidden
+}
