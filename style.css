@@ -66,28 +66,17 @@ ul{
 
 li{display:inline;}
 
-#nav ul li {
-    position: relative;
-    padding: 1.0em;
-    float: left;
-}
-#nav ul {
-    width: 100%;
-    max-width: 75em;
-    margin: 0 auto;
-}
-
 .table {
 	display: table;   /* Allow the centering to work */
 	margin: 0 auto;
 }
 
-ul#horizontal-list {
+ul #horizontal-list {
 	min-width: 696px;
 	list-style: none;
 	padding-top: 20px;
 }
-ul#horizontal-list li {
+ul #horizontal-list li {
 		display: inline;
 }
 
@@ -115,15 +104,6 @@ h1{
 
 h2{
     font-size: 2em;
-}
-
-#body p {
-    font-family: sans-serif;
-    background-color: #eaeaea;
-    color: black;
-}
-#body div{
-    padding:10px;
 }
 
 pre{
