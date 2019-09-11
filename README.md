@@ -20,19 +20,19 @@ Create your page in a file called index.html. Your webpage must have the followi
 * ~~A _level one heading_ with your names.~~
 * ~~A _horizontal rule_.~~
 * ~~Summarize the roles HTML, CSS, and JavaScript play in web development. Write one _paragraph_ for each.~~
-* Links (aka. _anchors_) to 3 helpful html and css resources. Add a _title attribute_ to each link giving a brief description of the resource.
-* _Images_ of your favorite animals that _link_ to the wikipedia page for that animal. Don't forget your _alt attributes_ for accessibility. Not everyone can see images.
+* ~~Links (aka. _anchors_) to 3 helpful html and css resources. Add a _title attribute_ to each link giving a brief description of the resource.~~
+* ~~_Images_ of your favorite animals that _link_ to the wikipedia page for that animal. Don't forget your _alt attributes_ for accessibility. Not everyone can see images.~~
 * ~~_Emphasize_ some text somewhere.~~
 * ~~Make some text _strong_.~~
 * ~~Display the _pre-formatted_ code for a Java "Hello World!" program.~~
-* A _table_ containing data of your choice.
+* ~~A _table_ containing data of your choice.~~
 * ~~Copyright (©) your page.~~
-* A _bulleted list_ with answers to the following questions (hint: use the google chrome inspector) to find the answers.
-  * Which elements are block elements and which elements are inline? How do you know?
-  * What is the default margin of the body element?
-  * What are the default font-size and font-weight of the h1 element?
-  * How long does it take to load your page?
-  * How can you view the response status of the requested resources (e.g. images in this case)?
+* ~~A _bulleted list_ with answers to the following questions (hint: use the google chrome inspector) to find the answers.~~
+  * ~~Which elements are block elements and which elements are inline? How do you know?~~
+  * ~~What is the default margin of the body element?~~
+  * ~~What are the default font-size and font-weight of the h1 element?~~
+  * ~~How long does it take to load your page?~~
+  * ~~How can you view the response status of the requested resources (e.g. images in this case)?~~
 
 ### Validating your HTML
 
@@ -53,7 +53,7 @@ style definitions.
 * Modify the _alignment_ of your headers (e.g. center, left, justify, right).
 * Change the _list style type_ of your bulleted list.
 * How can you change it for only the sublist items?
-* Add more space between list items.
+* ~~Add more space between list items.~~
 * Remove the underline from the links on your page. How can you still make them look like links without the underline?
 * Round the edges of your images so they look cooler.
 * Change the opacity of the images when you hover over them.
